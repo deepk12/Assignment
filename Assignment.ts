@@ -1,5 +1,5 @@
 /*
-//Create enum examples with names constant like different types of fruits name and display particular fruit name using the switch case statements(09 Feb).
+//Create enum examples with names constant like different types of fruits name and display particular fruit name using the switch case statements(Ass-1).
 enum Fruit {
     Apple = 'Apple',
     Banana = 'Banana',
@@ -33,7 +33,7 @@ console.log(result);
 
 
 /*
-// Create Generic of Array Wrapper which will save the records of products along with an examples(12 Feb).
+// Create Generic of Array Wrapper which will save the records of products along with an examples(Ass-2).
 
 class ArrayWrapper<T> {
     private records: T[] = [];
@@ -72,7 +72,7 @@ class ArrayWrapper<T> {
 
 
 /*
-//Implement the concept of Namespaces and Module with an examples(13 Feb).
+//Implement the concept of Namespaces and Module with an examples(Ass-3).
 namespace MathUtilities {
     export function add(a: number, b: number): number {
       return a + b;
@@ -87,7 +87,7 @@ console.log(MathUtilities.subtract(10, 4));
 */
 
 
-//Fetch the jsonplaceholder API using the concept of async and await in Typescript(16 Feb).
+//Fetch the jsonplaceholder API using the concept of async and await in Typescript(Ass-4).
 
 // app.module.ts
 // import { NgModule } from '@angular/core';
@@ -133,6 +133,8 @@ console.log(MathUtilities.subtract(10, 4));
 //   }
 // }
 
+
+Ass-5
 
 
 // // app.component.ts
